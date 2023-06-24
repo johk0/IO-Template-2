@@ -169,7 +169,7 @@ header .links .icon:hover span:nth-child(2){
 /* start leading section */
 .main-page{
     height:92vh;
-    background-image: url(/imagas/landing.jpg);
+    background-image: url(../imagas/landing.jpg);
     background-size: cover;
     position: relative;
 }
